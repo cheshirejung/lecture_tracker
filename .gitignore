@@ -28,7 +28,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
-=======
+
 # Miscellaneous
 *.class
 *.log
@@ -122,6 +122,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+>>>>>>> 4c43f0d (add gitignore)
 
 # Flutter environment
 .flutter-plugins
@@ -140,3 +141,4 @@ ios/.symlinks/
 
 # VSCode
 .vscode/
+>>>>>>> 4c43f0d (add gitignore)
